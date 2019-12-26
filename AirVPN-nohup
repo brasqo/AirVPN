@@ -1,0 +1,8 @@
+sudo nohup ./eddie-ui -cli -login="" -password="" -connect -server="" -netlock &
+
+"""
+Above you can run from CLI in linux to start an AirVPN connection.
+Make sure you are in the /eddie-ui dir when running this command. 
+/Eddie-cli will not work.
+No quotes for server, name, and passwords
+"""
