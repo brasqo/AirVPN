@@ -2,6 +2,8 @@
 Random scripts to deal with AirVPN
 
 HowTO:
-- Place vpnscript.sh Whereever (Desktop). 
+- Place vpnscript.sh whereever (Desktop). 
 - Place airvpnconnect.sh in eddie-ui* folder.
-- execute the vpnscript.sh 
+- Execute the vpnscript.sh 
+- Note: You can edit the file location in the script as needed. Just need to 
+make sure that they're correct. 
